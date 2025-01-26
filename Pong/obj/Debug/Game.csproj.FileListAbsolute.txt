@@ -1,0 +1,16 @@
+C:\Users\W10\source\repos\Game\bin\Debug\Game.exe.config
+C:\Users\W10\source\repos\Game\bin\Debug\Game.exe
+C:\Users\W10\source\repos\Game\bin\Debug\Game.pdb
+C:\Users\W10\source\repos\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\Game\obj\Debug\MainWindow.g.cs
+C:\Users\W10\source\repos\Game\obj\Debug\App.g.cs
+C:\Users\W10\source\repos\Game\obj\Debug\Game_MarkupCompile.cache
+C:\Users\W10\source\repos\Game\obj\Debug\Game_MarkupCompile.lref
+C:\Users\W10\source\repos\Game\obj\Debug\MainWindow.baml
+C:\Users\W10\source\repos\Game\obj\Debug\Game.g.resources
+C:\Users\W10\source\repos\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\W10\source\repos\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\W10\source\repos\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\Game\obj\Debug\Game.exe
+C:\Users\W10\source\repos\Game\obj\Debug\Game.pdb
+C:\Users\W10\source\repos\Game\obj\Debug\App.baml
